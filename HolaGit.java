@@ -1,5 +1,5 @@
 public class HolaGit{
    public void main(String[] args){
-	   System.out.println("Hola git");
+	   System.out.println("Hola git, soy un archivo en java");
    }
 }
